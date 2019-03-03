@@ -1,1 +1,2 @@
 Írja le röviden mi a kifejlesztendő alkalmazás célja!
+Az alkalmazás célja a hibák felmérése és annak továbbítása a renszergazda felé és fontos, hogy egy jól átlátható rendszerben láthassa mindazt.
