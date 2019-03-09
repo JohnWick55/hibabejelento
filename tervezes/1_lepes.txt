@@ -1,1 +1,1 @@
-Írja le röviden mi a kifejlesztendő alkalmazás célja!
+Az alkalmazás célja a hibák, rongálások dokumentálása és kezelése egy egységes rendszerben a rendszergazda felé.
